@@ -7,7 +7,7 @@ import os
 
 class ArduinoJsonConan(ConanFile):
     name = "ArduinoJson"
-    version = "5.12.0"
+    version = "6.13.0"
     url = "https://github.com/bincrafters/conan-ArduinoJson"
     description = "An efficient and elegant JSON library for Arduino. ArduinoJson supports ✔ serialization, ✔ deserialization, ✔ fixed allocation, ✔ zero-copy, ✔ streams, and more. It is the most popular Arduino library on GitHub ❤. Check out arduinojson.org for a comprehensive documentation."
     license = "https://github.com/someauthor/ArduinoJson/blob/master/LICENSE"
